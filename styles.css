@@ -1,0 +1,44 @@
+
+   body {
+     background-color: pink
+   }
+
+   hr {
+
+
+     border-style: dotted none none;
+     border-color: blue;
+     border-width: 5px;
+     width: 15%;
+
+   }
+
+
+  img {
+    height: 200px;
+  }
+
+  h1
+
+  {
+
+  color: yellow;
+
+}
+
+h2
+
+{
+
+color: green;
+
+}
+
+p
+
+
+{
+
+color: white;
+
+}
